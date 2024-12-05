@@ -1,0 +1,32 @@
+body{
+background-color: #C5D3E8;
+}
+header{
+background-color: white;
+color: #FFB6C1;
+}
+nav {
+margin: 10px 0;
+text-align: center;
+}
+nav a {
+margin: 0 15px;
+text-decoration: none;
+color: black;
+}
+nav a:hover {
+color: white;
+text-decoration: underline;
+}
+
+img {
+  width: 400px;
+  height: 400px;
+}
+
+button {
+  color: #F8766D;
+  background-color: black;
+  padding: 16px;
+  border-radius:8px;
+}
